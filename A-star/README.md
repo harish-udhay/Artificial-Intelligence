@@ -1,2 +1,15 @@
 # A-star
 Introduction to AI
+![image](https://user-images.githubusercontent.com/70934463/150665355-b51b0e04-e6af-4daf-a289-a6a7a2a470db.png)
+![image](https://user-images.githubusercontent.com/70934463/150665364-6b06c1e5-7710-4e4e-a4c4-a90e8b4e7e24.png)
+![image](https://user-images.githubusercontent.com/70934463/150665369-03da22da-999f-4628-8d1a-22bad644bc57.png)
+![image](https://user-images.githubusercontent.com/70934463/150665371-ff1c1183-f2ee-4afb-a121-3c1aaf049487.png)
+![image](https://user-images.githubusercontent.com/70934463/150665379-2521eac6-9556-4f5b-afbb-4d855b15a157.png)
+![image](https://user-images.githubusercontent.com/70934463/150665385-5c1dfab5-cc2e-48d1-99c3-4d188a2cd264.png)
+![image](https://user-images.githubusercontent.com/70934463/150665404-8a5214ab-9c36-4fa0-84cc-7d06acc46d48.png)
+![image](https://user-images.githubusercontent.com/70934463/150665407-79e2ad9b-7c25-407e-95de-25131ba7e1e4.png)
+![image](https://user-images.githubusercontent.com/70934463/150665412-cde60e9c-993d-4172-9867-7fccaa36a1d9.png)
+![image](https://user-images.githubusercontent.com/70934463/150665414-c0bd7f52-3e88-4c08-96ae-3c736a0cb1ed.png)
+![image](https://user-images.githubusercontent.com/70934463/150665423-85bd05e7-729a-4bb7-af5e-8799e78f8982.png)
+![image](https://user-images.githubusercontent.com/70934463/150665431-091feeac-eaed-4996-b097-d51ddbf50acf.png)
+![image](https://user-images.githubusercontent.com/70934463/150665448-8b74cf73-b083-4755-9532-12658ff2e7bb.png)
