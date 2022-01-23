@@ -1,5 +1,4 @@
 # A-star
-Introduction to AI
 ![image](https://user-images.githubusercontent.com/70934463/150665355-b51b0e04-e6af-4daf-a289-a6a7a2a470db.png)
 ![image](https://user-images.githubusercontent.com/70934463/150665364-6b06c1e5-7710-4e4e-a4c4-a90e8b4e7e24.png)
 ![image](https://user-images.githubusercontent.com/70934463/150665369-03da22da-999f-4628-8d1a-22bad644bc57.png)
