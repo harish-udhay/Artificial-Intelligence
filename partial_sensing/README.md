@@ -1,1 +1,11 @@
 # partial_sensing
+![image](https://user-images.githubusercontent.com/70934463/163445119-9bcd5d8f-8ea5-4cd5-aee5-b7afa5e97718.png)
+![image](https://user-images.githubusercontent.com/70934463/163445435-8fb83eef-6bfd-43ab-b89f-c3bbc685e7ad.png)
+![image](https://user-images.githubusercontent.com/70934463/163445569-68595745-7323-418f-88f0-7497c14fa695.png)
+![image](https://user-images.githubusercontent.com/70934463/163445721-388104ea-a20a-4acd-af14-6faf46176f37.png)
+![image](https://user-images.githubusercontent.com/70934463/163445863-8ac9048f-05bc-4af6-80f0-c7b511412fc6.png)
+![image](https://user-images.githubusercontent.com/70934463/163446009-4cf00a0c-5745-4b30-8ed3-ab5545c3ddfa.png)
+![image](https://user-images.githubusercontent.com/70934463/163446252-703925ba-2e04-441e-aa8f-ce72a609cdf7.png)
+![image](https://user-images.githubusercontent.com/70934463/163446354-c60314be-7192-4b18-a5fa-5b6fdd60becb.png)
+![image](https://user-images.githubusercontent.com/70934463/163446459-efd2529b-552a-4fe8-845f-8ba95ab5aed6.png)
+![image](https://user-images.githubusercontent.com/70934463/163446714-5f4bf016-362c-4111-a1e1-124fa15dd6f0.png)
